@@ -1,0 +1,75 @@
+@media (max-width: 768px) {
+
+    .slide .overlay .intro{
+      padding: 0
+    }
+
+    .about .informations {
+      margin-top: 30px
+    }
+
+    .about .informations h1 {
+
+      text-align: center;
+    }
+
+    .services .info-services {
+
+      text-align: center;
+    }
+
+    .services .info-services h3 {
+
+      margin-top: 15px
+    }
+
+    .clients .slider-clients img {
+
+      display: block;
+      margin: 20px auto
+    }
+
+    .testimonials div{
+
+      transform: translateZ(0);
+    }
+
+    .call .intro-called {
+
+        text-align: center;
+    }
+
+    .our-team .persson-team img {
+
+      display: block;
+      margin: auto;
+    }
+
+    .contact .form input[type="submit"] {
+
+      width: 50%
+    }
+
+
+}
+
+
+@media (min-width: 768px) {
+
+
+}
+
+
+@media (min-width: 991px) {
+
+  .slide .overlay .intro {
+      padding: 100px 0 60px 0;
+  }
+
+}
+
+
+@media (min-width: 1200px) {
+
+
+}
